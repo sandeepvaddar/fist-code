@@ -1,2 +1,2 @@
-# fist-code
+# first-code
 python
