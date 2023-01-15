@@ -1,0 +1,9 @@
+from tkinter.tix import InputOnly
+
+
+a = int(input("Enter the number of a"))
+b = int(input("Enter the number of b"))
+if a > b :
+    print("A is gratest")
+else:
+    print("B is gratest")
